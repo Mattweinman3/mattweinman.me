@@ -55,6 +55,9 @@ ul {
 
 .contact {
   float: right;
+  color:white;
+  margin:2px;
+  margin:solid white;
 }
 
 .contact-btn a {
