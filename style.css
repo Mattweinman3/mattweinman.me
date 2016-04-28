@@ -9,7 +9,6 @@ body {
   background-size: cover;
   background-attachment: fixed;
   min-width: : 960px;
-  max-height: inherit;
   width: 100%;
 }
 
@@ -22,7 +21,7 @@ p {
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 10px;
-  padding-bottom: 5px; 
+  padding-bottom: 5px;
 }
 
 header {
