@@ -19,6 +19,10 @@ p {
   color: white;
 }
 
+img: hover {
+  opacity: 100%;
+}
+
 li {
   list-style: none;
 }
@@ -41,12 +45,9 @@ ul {
 .social_hub {
   text-align: center;
   }
-.social_hub img {
-  opacity: 0.5;
-}
 
-img: hover {
-  opacity: 1.0;
+.social_hub img {
+  opacity: 50%;
 }
 
 .social_hub img: active {
