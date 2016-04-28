@@ -15,18 +15,29 @@ body {
 }
 
 img {
-  opacity:
+  opacity:0.5;
 }
 
 p {
   font-size: 32px;
   font-family: serif;
-  color: white
+  color: yellow;
+}
+
+
+ul {
+  display: inline;
+  flex: wrap;
+}
+
+
+.navbar {
+  display: inline-flex;
 }
 
 .logo {
   float: left;
-  padding: 1em;
+  padding: 10px;
   margin: 5px;
 }
 
@@ -41,13 +52,6 @@ p {
 .social_hub a: active {
   position:relative;
 }
-
-ul {
-  display: inline;
-  flex: wrap;
-
-}
-
 
 .contact {
   float: right;
