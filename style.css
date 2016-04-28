@@ -64,6 +64,8 @@ nav ul {
   float: left;
   padding: 10px;
   margin: 5px;
+  opacity: 1;
+  
 }
 
 .social_hub {
