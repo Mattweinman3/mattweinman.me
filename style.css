@@ -40,9 +40,10 @@ nav {
   text-align: right;
   margin-top: 100px;
   background-blend-mode: soft-light;
-
 }
-
+nav a{
+  color:White 
+  }
 nav li {
   margin: 0;
   padding: 0 10px;
