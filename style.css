@@ -72,7 +72,7 @@ nav ul {
 }
 
 .social_hub {
-  display: inline;
+  display: inline-block;
   margin: 100px;
   width: 60%;
   border: 3px solid white;
