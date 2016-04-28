@@ -12,6 +12,16 @@ body {
   width: 100%;
 }
 
+.resume {
+  background: rgba(255,255,255, 0.5);
+  color: black;
+}
+
+.resume p{
+  color:black;
+  background: rgba(255,255,255,0.5);
+}
+
 p {
   font-size: 32px;
   font-family: serif;
@@ -114,9 +124,4 @@ nav ul {
 .contact-btn a:active {
   position: relative;
   top: 2px;
-}
-
-.resume {
-  background: rgba(255,255,255, 0.5);
-  color: black;
 }
