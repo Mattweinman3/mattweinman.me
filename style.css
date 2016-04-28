@@ -115,3 +115,7 @@ nav ul {
   position: relative;
   top: 2px;
 }
+
+.resume {
+  background: rgba(255,255,255, 0.5)
+}
