@@ -22,7 +22,8 @@ p {
 header {
   top-margin: 30px;
   top-padding: 30px;
-  opacity: 0.5;
+  background: white;
+  background-opacity: 0.5; 
 }
 
 li {
