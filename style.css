@@ -28,6 +28,19 @@ ul {
 
 }
 
+nav {
+  background-color: #FFF;
+}
+
+nav li {
+  margin: 0;
+  padding: 0 10px;
+  display: inline;
+}
+
+nav ul {
+  display: inline;
+}
 
 .navbar {
   display: inline-flex;
@@ -55,7 +68,7 @@ ul {
 
 .contact {
   float: right;
-  text-color:white;
+  text: solid white;
   margin:2px;
   margin:solid white;
 }
