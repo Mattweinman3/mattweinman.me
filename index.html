@@ -21,9 +21,23 @@
             <li><a href="#">Contact</a></li>
           </ul>
         </nav>
-
-      <div class="contact-btn"><a>Contact</a>
       </div>
+
+     <script language="javascript" type="text/javascript">
+          $(document).ready(function () {
+
+            $("#fadeExp1 img").fadeTo(0, 0.3);
+
+            $("#fadeExp1 img").hover(function () {
+                $(this).fadeTo("slow", 1.0);
+                },
+                function () {$(this).fadeTo("slow", 0.3);
+                });
+
+          });
+
+          use   <div id="fadeExp1">
+    </script>
 
     </header>
 
