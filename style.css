@@ -20,7 +20,7 @@ p {
 
 header {
   top-margin: 10px;
-  top-padding: 30px
+  top-padding: 30px;
 }
 
 li {
@@ -28,7 +28,6 @@ li {
 }
 ul {
   display: inline;
-
 }
 
 nav {
@@ -42,7 +41,8 @@ nav {
   background-blend-mode: soft-light;
 }
 nav a{
-  color:White 
+  color: white;
+  text-decoration: none;
   }
 nav li {
   margin: 0;
