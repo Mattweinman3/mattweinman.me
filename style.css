@@ -21,6 +21,8 @@ p {
 
 .logo {
   float:left;
+  max-width: 100px;
+  max-height: 100px;
 }
 
 .social_hub img {
