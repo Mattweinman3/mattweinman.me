@@ -64,6 +64,10 @@ nav ul {
   display: inline-flex;
 }
 
+.navbar a:hover {
+  color: grey;
+}
+
 .logo {
   float: left;
   padding: 10px;
