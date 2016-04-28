@@ -16,11 +16,13 @@ p {
   font-size: 32px;
   font-family: serif;
   color: white;
+  text-decoration: none;
 }
 
 header {
-  top-margin: 10px;
+  top-margin: 30px;
   top-padding: 30px;
+  opacity: 0.5;
 }
 
 li {
@@ -66,22 +68,22 @@ nav ul {
 
 .social_hub {
   text-align: center;
-  display: inline-flex;
+  display: inline;
   }
 
 .social_hub img {
-      opacity: 0.5;
+      opacity: 0.7;
       filter: alpha(opacity=40);
   }
 
 .social_hub img:hover {
-      opacity: 1.0;
+      opacity: 1.5;
       filter: alpha(opacity=100);
   }
 
 .contact {
   float: right;
-  text: solid white;
+  text-color: solid white;
   margin:2px;
   margin:solid white;
 }
