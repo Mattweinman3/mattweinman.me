@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,400italic);
+
+body {
+
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+  background-image: url("sunset.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  min-width: : 960px;
+
+}
+
+p {
+  font-size: 32px;
+  font-family: Palatino,'Palatino Linotype',serif;
+  color: white
+}
+
+.logo {
+  float:left;
+}
+
+.social_hub img {
+  opacity: 0.3;
+}
+
+.social_hub a: hover {
+  opacity: 1.0;
+}
+
+.social_hub a: active {
+  position:relative;
+}
+
+ul {
+  display: inline;
+}
