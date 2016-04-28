@@ -20,9 +20,8 @@ p {
 }
 
 .logo {
-  float:left;
-  max-width: 10px;
-  max-height: 10px;
+  float:right;
+
 }
 
 .social_hub img {
@@ -42,7 +41,7 @@ ul {
 }
 
 
-.contact-btn {
+.contact {
   float: right;
 }
 
