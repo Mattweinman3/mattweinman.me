@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,400italic);
 
 body {
-
+  background-color: blue;
   font-size: 18px;
   line-height: 1.5;
   text-align: center;
