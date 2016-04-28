@@ -66,6 +66,7 @@ nav ul {
 
 .social_hub {
   text-align: center;
+  display: inline-flex;
   }
 
 .social_hub img {
