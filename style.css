@@ -39,8 +39,9 @@ nav {
   font-weight: bold;
   color: gray;
   text-align: right;
-  margin-top: -10px;
+  margin-top: -1000px;
   background-blend-mode: soft-light;
+
 }
 
 nav li {
