@@ -18,6 +18,7 @@ body {
   width: 100%;
 }
 
+
 p {
   font-size: 32px;
   font-family: serif;
@@ -65,6 +66,7 @@ nav li {
 nav ul {
   display: inline;
 }
+
 
 .navbar {
   display: inline-flex;
