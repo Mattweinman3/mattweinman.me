@@ -4,7 +4,7 @@ body {
   line-height: 1.5;
   text-align: center;
   background: rgba(255,255,255, 0.4);
-  /*background-image: url("sunset.JPG");*/
+  background-image: url("sunset.JPG");
   background-size: cover;
   background-attachment: fixed;
   min-width: : 960px;
@@ -28,6 +28,10 @@ header {
   top-padding: 30px;
   background: rgba(255,255,255, 0.4);
 
+}
+
+main {
+  background: rgba(255,255,255, 0.4);
 }
 
 li {
@@ -59,6 +63,7 @@ nav li {
 nav ul {
   display: inline;
 }
+
 
 .navbar {
   display: inline-flex;
