@@ -1,3 +1,7 @@
+body. resume {
+  background: rgba(255,255,255, 0.4);
+}
+
 body {
   font-family:serif;
   font-size: 18px;
