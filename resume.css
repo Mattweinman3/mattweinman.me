@@ -1,0 +1,116 @@
+body {
+  font-family: 'Playfair Display', serif;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+  background-image: url("sunset.JPG");
+  background-size: cover;
+  background-attachment: fixed;
+  min-width: : 960px;
+  width: 100%;
+}
+
+p {
+  font-size: 32px;
+  font-family: serif;
+  color: white;
+  text-decoration: none;
+  background: rgba(255,255,255, 0.4);
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+header {
+  top-margin: 30px;
+  top-padding: 30px;
+  background: rgba(255,255,255, 0.4);
+
+}
+
+li {
+  list-style: none;
+}
+ul {
+  display: inline;
+}
+
+nav {
+  font-size: 20px;
+  background: rgba(255,255,255, 0.4);
+  font-family: 'Sail', cursive;
+  font-weight: bold;
+  color: yellow;
+  text-align: right;
+  margin-top: 100px;
+}
+nav a{
+  color: black;
+  text-decoration: none;
+  }
+nav li {
+  margin: 0;
+  padding: 0 10px;
+  display: inline;
+}
+
+nav ul {
+  display: inline;
+}
+
+.navbar {
+  display: inline-flex;
+}
+
+.navbar a:hover {
+  color: grey;
+}
+
+.logo {
+  float: left;
+  padding: 10px;
+  margin: 5px;
+
+}
+
+.social_hub {
+  display: inline-block;
+  margin: 100px;
+  width: 60%;
+  border: 3px solid white;
+  padding: 10px;
+  }
+
+.social_hub img {
+      opacity: 0.5;
+      filter: alpha(opacity=40);
+  }
+
+.social_hub img:hover {
+      opacity: 1.5;
+      filter: alpha(opacity=100);
+  }
+
+.social_hub ul {
+  display: inline;
+}
+
+.contact {
+  float: right;
+  text-color: solid white;
+  margin:2px;
+  margin:solid white;
+}
+
+.contact-btn a {
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid white;
+
+}
+
+.contact-btn a:active {
+  position: relative;
+  top: 2px;
+}
